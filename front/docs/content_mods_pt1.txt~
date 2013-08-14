@@ -1,0 +1,36 @@
+Homepage:
+	- facebook overal schrappen  (staat nog ene instantie van facebook op)
+		blocks/intro.php
+		blocks/topics.php 
+
+	- tekst buyers
+		blocks/topics.php   (edit breaks style)
+	
+	- tekst sellers
+		blocks/topics.php
+
+	- tekst licenses
+		blocks/topics.php
+
+login page
+	- titel 
+		blocks/subheader.php
+
+	- blokken buiten signup weglaten
+		views/buy/index.php
+
+upload page 
+	- submit -> verify
+		formhelper.php
+
+license pages
+	- licence -> license
+		blocks/progress.php
+		form helper
+		docs/license.sql
+		views/form/fields/license.php
+
+
+Login-> brands blok?
+'facebook' blok iwein
+tekst onder foto weglaten?
